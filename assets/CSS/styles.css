@@ -130,10 +130,10 @@ header nav ul li a:hover {
 }
 
 .image1 {  
-    background-image: url("../images/02-portfolio-4.jpg");
+    background-image: url("../images/Travelot-Stock-Img-2.jpg");
     border: 5px solid var(--primary-color);
-    height: 300px;
-    width: 700px;
+    height: 150px;
+    width: 335px;
     margin: 10px;
 }
 
